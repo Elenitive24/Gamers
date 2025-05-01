@@ -15077,3 +15077,7 @@ To disable a bonus drop for a default definition, set the amount to 0.
 [01May2025 18:58:45.371] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [01May2025 18:58:50.023] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: darkblader69 lost connection: Disconnected
 [01May2025 18:58:50.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darkblader69 left the game
+[01May2025 19:03:22.474] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 19:03:22.535] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 19:08:22.479] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 19:08:22.534] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
